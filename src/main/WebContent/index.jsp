@@ -49,7 +49,7 @@
 			<a href="${pageContext.request.contextPath}/Minha-Inscricao.jsp">Minha inscrição</a>
 		</nav>
 
-		<h3 class="autor">Cauê Gayoso Tavares da Silva<br>Arthur José Soares de Oliveiraa</h3>
+		<h3 class="autor">Cauê Gayoso Tavares da Silva<br>Arthur José Soares de Oliveira</h3>
 	</main>
 </body>
 </html>

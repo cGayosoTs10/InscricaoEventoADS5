@@ -1,5 +1,9 @@
 package model;
 
+/** Autores: Cauê Gayoso Tavares da Silva 
+ * 			 Arthur José Soares de Oliveira 
+ * **/
+
 import java.io.Serializable;
 
 public class Participante implements Serializable {

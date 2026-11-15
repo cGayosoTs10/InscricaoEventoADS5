@@ -26,6 +26,7 @@
 
 		<nav class="acoes">
 			<a href="${pageContext.request.contextPath}/index.jsp">Nova inscrição</a>
+			<a href="${pageContext.request.contextPath}/ServletLogout">Encerrar sessão</a>
 		</nav>
 
 		<h3 class="autor">Cauê Gayoso Tavares da Silva<br>Arthur José Soares de Oliveira</h3>

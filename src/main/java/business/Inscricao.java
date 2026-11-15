@@ -1,5 +1,10 @@
 package business;
 
+/** Autores: Cauê Gayoso Tavares da Silva 
+ * 			 Arthur José Soares de Oliveira 
+ * **/
+
+
 import java.util.Locale;
 import model.Participante;
 

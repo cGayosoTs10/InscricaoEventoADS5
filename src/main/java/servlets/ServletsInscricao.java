@@ -1,5 +1,10 @@
 package servlets;
 
+/** Autores: Cauê Gayoso Tavares da Silva 
+ * 			 Arthur José Soares de Oliveira 
+ * **/
+
+
 import java.io.IOException;
 import java.util.Locale;
 
